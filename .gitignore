@@ -1,2 +1,3 @@
-node_modules
-package-lock.json
+.venv
+__pycache__
+Clicsalud_-_Term_metro_de_Precios_de_Medicamentos_20250228.csv

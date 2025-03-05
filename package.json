@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "papaparse": "^5.5.2",
-    "react": "^19.0.0"
-  }
-}
